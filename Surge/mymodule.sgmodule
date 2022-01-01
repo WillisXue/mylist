@@ -1,0 +1,5 @@
+#!name=MyModule
+#!desc=MyModule
+
+[Rule]
+DOMAIN-SUFFIX,mypikpak.com,DIRECT
