@@ -1,0 +1,4 @@
+#!name= Wifi Changed
+
+[Script]
+Wifi Changed Script = type=event,event-name=network-changed,script-path=wifi-changed.js
